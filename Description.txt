@@ -1,0 +1,33 @@
+
+Australian Rules Football Statistics
+
+Dataset is from https://afltables.com/afl/stats/2022a.html
+
+Description of the features is below.   
+Knowledge about Australian Rules Football will be helpful if you are interested to work with this dataset.
+
+Player
+Tm=Team
+GM=Games played 
+KI=Kicks
+MK=Marks 
+HB=Handballs 
+DI=Disposals - Legally getting rid of the ball, via a handball or kick.
+GL=Goals 
+BH=Behinds - Any scoring that gets you one point (Kick outer posts, kick the post, walked or handballed through post while holding ball)
+HO=Hit outs - Uncontested handball (Perfect handball pass)
+TK=Tackles 
+RB=Rebound SOs - Getting the ball from the 50 metres the player is DEFENDING back into midfield
+IF=Inside SOs - Getting the ball into your offensive 50 metres FROM midfield
+CL=Clearances - Getting the ball out of a stopage situation (where the game would have to pause, e.g. Out of Bounds) into a clear area
+CG=Clangers - An error made by a player resulting in a negative result for his side
+FF=Free kicks for 
+FA=Free kicks against 
+BR=Brownlow votes - The amount of votes a player gets for the brownlow award
+CP=Contested possessions -  A possession which has been won when the ball is in dispute (e.g. contested mark, loose ball get, etc.)
+UP=Uncontested possessions - Gaining possesion when not under physical pressure (the ball is clear for you to take possesion without opposition)
+CM=Contested marks - Marking the ball when physical pressure and contest for the ball is present
+MI=Marks inside SO - Marking the ball inside your offensive 50 metres
+1%=One percenters - Actions that benefit your team but are infrequent or defensive (smothering the ball, blocking a pass, etc.)
+BO=Bounces 
+GA=Goal assist - Giving a goal opportunity to a teammate

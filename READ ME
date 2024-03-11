@@ -1,0 +1,32 @@
+# Members: Dong Li, Chee Henn Chin, Jaehyeok Kim, Mackenzie Linden
+
+# Introduction of intended use for code and csv data files
+
+This program is designed to analyse and model the correlation between on-field actions of
+AFL and their goal-scoring potential. It process a provided dataset of AFL player statistics
+and generates correlation graphs (metric vs goals) and a regression tree. It also creates
+KNN, linear regression and regression tree models and evaluates them.
+
+# File structure and use of each file
+- correlation_graphs folder is used to store all correlation plots
+- AFL-2022-totals.csv is a csv data file containing the data used to answer the research question
+- Description.txt is a short explanation of the data used
+- project_code.py is the python code
+
+# project_code.py is the main file, running it will provide the graphs and results
+
+# Instructions on how to run your code.
+1) Ensure you have Python installed on your system.
+2) Download the program files onto your system.
+3) Open a terminal and execute: python project_code.py
+4) The program will process the dataset and generate scatterplot and regression
+   tree plots as well as print the evaluation metrics in the terminal.
+5) The generated scatterplots will eb saved in a folder named "correlated_graphs"
+   in the root directory.
+6) The regression tree plot will be saved in the root folder.
+
+# Any additional requirements needed to run code.
+The following libraries are needed in order to run the code:
+    pandas, numpy, matplotlib, scipy, sklearn
+
+
